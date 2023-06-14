@@ -8,7 +8,7 @@ echo Contacts:
 echo GameJolt: https://gamejolt.com/@BitModding
 echo YouTube: https://www.youtube.com/@BitModding
 echo Facebook(EN): https://www.facebook.com/groups/bitmodding
-echo ‚Š®­â ªâ¥(RU): https://vk.com/bitmodding
+echo â€šÅ Â®Â­Ã¢Â ÂªÃ¢Â¥(RU): https://vk.com/bitmodding
 echo Discord: https://discord.com/invite/QANSpdKEUU
 echo ========================
 echo Select a task:
@@ -46,20 +46,20 @@ goto begin
 
 :op1
 echo you picked option 1
-ren       266607.wem.wav ÿ                       VANESSA_00025.wav
-ren       2820388.wem.wavÿ                       GREGORY_RUN_00014.wav
-ren       3169714.wem.wavÿ                       VANESSA_00002_FreddyYouScaredMe.wav
-ren       3369005.wem.wavÿ                       GREGORY_00154.wav
-ren       3733131.wem.wavÿ                       DREAD_00071.wav
-ren       4452998.wem.wavÿ                       VANESSA_LIGHT_FLASH_004.wav
-ren       5275079.wem.wavÿ                       sfx_chica_shattered_vox_high_01.wav
-ren       5389732.wem.wavÿ                       sfx_chica_shattered_vox_high_09.wav
-ren       6571887.wem.wavÿ                       VANESSA_RUN_011.wav
-ren       6669617.wem.wavÿ                       RULESBOT_00013_David.wav
-ren       7543468.wem.wavÿ                       MAPBOT_00004_m.wav
-ren       7663926.wem.wavÿ                       sfx_chica_shattered_vox_low_11.wav
-ren       8820919.wem.wavÿ                       MONTY_00026_10.wav
-ren       9457858.wem.wavÿ                       GREGORY_00032_Why.wav
+ren       266607.wem.wav                         VANESSA_00025.wav
+ren       2820388.wem.wav                        GREGORY_RUN_00014.wav
+ren       3169714.wem.wav                        VANESSA_00002_FreddyYouScaredMe.wav
+ren       3369005.wem.wav                        GREGORY_00154.wav
+ren       3733131.wem.wav                        DREAD_00071.wav
+ren       4452998.wem.wav                        VANESSA_LIGHT_FLASH_004.wav
+ren       5275079.wem.wav                        sfx_chica_shattered_vox_high_01.wav
+ren       5389732.wem.wav                        sfx_chica_shattered_vox_high_09.wav
+ren       6571887.wem.wav                        VANESSA_RUN_011.wav
+ren       6669617.wem.wav                        RULESBOT_00013_David.wav
+ren       7543468.wem.wav                        MAPBOT_00004_m.wav
+ren       7663926.wem.wav                        sfx_chica_shattered_vox_low_11.wav
+ren       8820919.wem.wav                        MONTY_00026_10.wav
+ren       9457858.wem.wav                        GREGORY_00032_Why.wav
 ren       10199576.wem.wav                       GREGORY_RUN_00007.wav
 ren       10332358.wem.wav                       AUDIENCEBOT_000001_m.wav
 ren       10566819.wem.wav                       driverbot_00009_m.wav
